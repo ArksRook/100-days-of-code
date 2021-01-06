@@ -14,3 +14,9 @@ Only basic access analysis function is created using PHP. I haven't yet decided 
 3. I found out that http://Socket.io seems to be useful for making chat app.
 4. I needed to know Node.js and NGINX.
 5. I did a tutorial and created a chat app.
+
+### R1D3
+I wanted to create a development environment for NGINX + Node.js + MongoDB, so I read the MongoDB Get Started documentation.
+I've learned that you need to select systemd as a boot option to install on MX Linux. I was able to install it successfully and proceed with the tutorial.
+https://www.mongodb.com/try/download/community
+
